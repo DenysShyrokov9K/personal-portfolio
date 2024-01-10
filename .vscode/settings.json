@@ -1,0 +1,43 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": "explicit",
+    "source.fixAll": "explicit"
+  },
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "cSpell.words": [
+    "Annon",
+    "blistabloc",
+    "boxicons",
+    "fiverr",
+    "Floatin",
+    "Gitub",
+    "Gkqj",
+    "glassesimoji",
+    "heartemoji",
+    "iconscout",
+    "Insta",
+    "Kaww",
+    "MODA",
+    "noreferrer",
+    "Photoshop",
+    "Prismic",
+    "Protfolio",
+    "psafvyf",
+    "reblog",
+    "RUNP",
+    "RUOB",
+    "RUPV",
+    "skyblue",
+    "Smhfr",
+    "thumbup",
+    "unicons",
+    "Upstatement",
+    "Upwork",
+    "Uudh",
+    "videoseries",
+    "YSGSA",
+    "Ysqe"
+  ],
+  "files.autoSave": "afterDelay"
+}
